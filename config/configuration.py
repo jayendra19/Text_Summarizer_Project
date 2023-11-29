@@ -1,5 +1,5 @@
 from TextSummarizer.constants import *
-from TextSummarizer.utils.common import read_yaml, create_directories
+from TextSummarizer.utils.common import read_yaml,create_directories
 from TextSummarizer.entity import (DataIngestionConfig)
 
 
@@ -29,6 +29,7 @@ class ConfigurationManager:
         )
 
         return data_ingestion_config
+
 
 
 

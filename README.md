@@ -1,6 +1,7 @@
 # Text_Summarizer_Project
 
 ## the library being used in this project what they do and why?
+
 Transformers: This library by Hugging Face provides state-of-the-art pre-trained models for Natural Language Processing (NLP) tasks like text classification, language generation, question answering, etc. It simplifies using and fine-tuning these models.
 
 Datasets: Also from Hugging Face, it offers a wide range of datasets for NLP tasks, making it easy to access and use them for training and evaluation.
@@ -32,3 +33,20 @@ FastAPI and Uvicorn: These are used for building and running web APIs in Python.
 Jinja2: Jinja2 is a popular templating engine for Python used in web development to generate dynamic content.
 
 Ensure and Python-box: These might refer to specific versions or packages, but without specific information, it's challenging to provide details about their purpose.
+
+
+#WORKFLOW
+Update config.yaml
+Update params.yaml
+Update entity
+Update the configuration manager in src config
+update the conponents
+update the pipeline
+update the main.py
+update the app.py
+
+
+
+
+
+
